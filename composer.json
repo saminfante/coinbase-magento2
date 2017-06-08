@@ -7,7 +7,7 @@
         "magento/module-checkout": "100.0.*",
         "magento/module-payment": "100.0.*",
         "magento/module-quote": "100.0.*",
-        "magento/framework": "100.0.*",
+        "magento/framework": "100.1.*",
         "ext-openssl": "*",
         "coinbase/coinbase": "^2.3"
     },
