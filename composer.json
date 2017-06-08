@@ -1,5 +1,5 @@
 {
-    "name": "coinbase/module-coinbase-magento2-gateway",
+    "name": "saminfante/module-coinbase-magento2-gateway",
     "description": "Accept Bitcoin on your Magento2 website with Coinbase",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
